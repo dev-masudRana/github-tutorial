@@ -1,0 +1,16 @@
+1. git -h (command line list)
+2. git --help (command line list)
+3. git config --help (configuration list)
+4. git config --list (configuration list)
+5. git config --global user.name "masud rana" (set user name)
+
+###6. ls -a (files inside a folder); ls -la?
+
+---Git working flow---
+7. git init (folder -> git folder)
+8. git add . / fileName (takes git folder to staging area)
+9. 
+
+
+git status (display status)
+git diff ()
