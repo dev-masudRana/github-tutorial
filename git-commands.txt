@@ -7,10 +7,13 @@
 ###6. ls -a (files inside a folder); ls -la?
 
 ---Git working flow---
-7. git init (folder -> git folder)
-8. git add . / fileName (takes git folder to staging area)
-9. 
+1. git init (folder -> git folder)
+2. git add . / fileName (takes git folder to staging area)
+3. git commit -m "commit message"
 
 
 git status (display status)
 git diff ()
+
+git log (display commit information details)
+git log --oneline (display commit information briefly)
