@@ -17,3 +17,6 @@ git diff ()
 
 git log (display commit information details)
 git log --oneline (display commit information briefly)
+
+git remote (github repository address)
+git remote -v (github repository address full)
