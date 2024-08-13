@@ -20,3 +20,13 @@ git log --oneline (display commit information briefly)
 
 git remote (github repository address)
 git remote -v (github repository address full)
+
+git pull (pull everything from github repository to local git folder)
+
+git branch (display all branch and also which branch I am pushing files)
+
+git branch <branchName> (create new branch)
+
+git checkout <branchName> (switch branch)
+
+
