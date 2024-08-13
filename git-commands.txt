@@ -30,3 +30,5 @@ git branch <branchName> (create new branch)
 git checkout <branchName> (switch branch)
 
 
+git merge <branchName> (merge main branch to another branch)
+
