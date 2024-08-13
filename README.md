@@ -29,7 +29,7 @@ _This is italic_
 ### Table:
 
 | Name  | Age  |
-| ----- | :---- |
+| ----- | ---- |
 | Abul  | 22   |
-| Babul | 24   |
+| Babul | 25   |
 | Cabul | 21   |
