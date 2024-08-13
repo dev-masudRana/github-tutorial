@@ -22,4 +22,4 @@ _This is italic_
 3. Khulna
 
 ### Profile Pic:
-![Profile](images/profile1-500x500.png)
+![Profile](images/profile-800x800.png)
