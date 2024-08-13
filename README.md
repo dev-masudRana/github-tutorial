@@ -33,3 +33,6 @@ _This is italic_
 | Abul  | 22   |
 | Babul | 25   |
 | Cabul | 21   |
+| Dabul | 18   |
+| Ebul  | 20   |
+| Fabul | 23   |
