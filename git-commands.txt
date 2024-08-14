@@ -24,11 +24,10 @@ git remote -v (github repository address full)
 git pull (pull everything from github repository to local git folder)
 
 git branch (display all branch and also which branch I am pushing files)
-
 git branch <branchName> (create new branch)
 
 git checkout <branchName> (switch branch)
-
+git checkout -b <branchName> (create and switch to new branch)
 
 git merge <branchName> (merge main branch to another branch)
 
